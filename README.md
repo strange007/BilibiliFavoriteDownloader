@@ -4,6 +4,8 @@ Download all the videos in any favorite folder
 ## Description
 
 This project provides a command-line tool to download videos from BiliBili. It allows you to download videos from a specified media list ( your favorite folder ) or by providing individual BVIDs (Bilibili Video IDs). The script downloads the video and audio separately and then merges them into a single MP4 file using FFmpeg.
+- Here media list is a MEDIA_ID that can be get like the picture.
+![image](https://github.com/user-attachments/assets/497e30e6-2a36-4d9d-be41-20362ff13fd4)
 
 ## Features
 
